@@ -1,0 +1,80 @@
+# Base Setup
+setuptools>=69.0.2
+wheel>=0.42.0
+
+# Core dependencies
+numpy>=1.26.3, <2.0.0
+pandas>=2.1.4
+streamlit>=1.31.1
+
+# Environment
+python-dotenv==1.0.0
+
+# LangChain & AI
+langchain>=0.1.0
+langchain-community>=0.0.13
+langchain-core>=0.1.12
+langchain-google-genai>=0.0.6
+google-generativeai>=0.3.2
+chromadb>=0.4.22
+
+# Machine Learning
+scikit-learn>=1.4.0
+xgboost>=2.0.3
+prophet==1.1.5
+transformers==4.36.2
+
+# Deep Learning
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.6.0
+torchvision
+torchaudio
+
+# Vector Store & Embeddings
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.2
+
+# API
+fastapi>=0.109.2
+uvicorn>=0.27.1
+python-multipart>=0.0.6
+aiofiles>=23.2.1
+
+# Visualization
+plotly>=5.18.0
+matplotlib>=3.8.2
+seaborn>=0.13.1
+
+# Report Generation
+fpdf>=1.7.2
+XlsxWriter>=3.1.9
+
+# Utilities
+requests>=2.31.0
+python-dateutil>=2.8.2
+tqdm>=4.66.1
+pyyaml>=6.0.1
+joblib==1.2.0
+
+# Development
+pytest>=7.4.4
+black>=23.12.1
+
+# Optional GPU Support (commented out by default)
+# torch==2.0.0+cu118  # For CUDA 11.8
+# torch==2.0.0+cu117  # For CUDA 11.7
+# torch==2.0.0+cu116  # For CUDA 11.6
+
+# System specific dependencies
+# For MacOS
+  # CPU only version for MacOS
+
+# For Windows
+# torch==2.0.0+cpu  # CPU only version for Windows
+
+# Text Processing
+rapidfuzz==3.6.1
+nltk==3.8.1
+
+# Database & Storage
+sqlalchemy==2.0.25

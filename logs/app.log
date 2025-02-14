@@ -1,0 +1,174 @@
+2025-02-14 19:32:30,805 - __main__ - ERROR - Application startup failed: No module named 'plotly'
+2025-02-14 19:33:21,648 - __main__ - ERROR - Application startup failed: No module named 'plotly'
+2025-02-14 19:34:24,590 - __main__ - ERROR - Application startup failed: No module named 'plotly'
+2025-02-14 19:36:14,595 - __main__ - ERROR - Application startup failed: No module named 'plotly'
+2025-02-14 19:37:52,623 - ERROR - Application startup failed: No module named 'plotly'
+Traceback (most recent call last):
+  File "/Users/anmolsureka/Documents/insurance verification/main.py", line 65, in main
+    from src.dashboard.app import DashboardApp
+  File "/Users/anmolsureka/Documents/insurance verification/src/dashboard/app.py", line 3, in <module>
+    import plotly.express as px
+ModuleNotFoundError: No module named 'plotly'
+2025-02-14 19:41:25,566 - __main__ - INFO - Starting application...
+2025-02-14 19:41:26,493 - __main__ - ERROR - Missing dependency: No module named 'plotly'
+2025-02-14 19:41:49,269 - __main__ - INFO - Starting application...
+2025-02-14 19:41:50,757 - __main__ - ERROR - Missing dependency: No module named 'google.generativeai'
+2025-02-14 19:42:32,879 - __main__ - INFO - Starting application...
+2025-02-14 19:42:35,265 - __main__ - ERROR - Application startup failed: No module named 'networkx'
+2025-02-14 19:42:35,266 - __main__ - ERROR - Traceback: Traceback (most recent call last):
+  File "/Users/anmolsureka/Documents/insurance verification/main.py", line 94, in main
+    from src.dashboard.app import DashboardApp
+  File "/Users/anmolsureka/Documents/insurance verification/src/dashboard/app.py", line 10, in <module>
+    import networkx as nx
+ModuleNotFoundError: No module named 'networkx'
+
+2025-02-14 19:42:55,226 - __main__ - INFO - Starting application...
+2025-02-14 19:42:55,701 - __main__ - ERROR - Application startup failed: No module named 'wordcloud'
+2025-02-14 19:42:55,702 - __main__ - ERROR - Traceback: Traceback (most recent call last):
+  File "/Users/anmolsureka/Documents/insurance verification/main.py", line 94, in main
+    from src.dashboard.app import DashboardApp
+  File "/Users/anmolsureka/Documents/insurance verification/src/dashboard/app.py", line 11, in <module>
+    from wordcloud import WordCloud
+ModuleNotFoundError: No module named 'wordcloud'
+
+2025-02-14 19:43:14,574 - __main__ - INFO - Starting application...
+2025-02-14 19:43:17,308 - __main__ - ERROR - Application startup failed: No module named 'langchain_community'
+2025-02-14 19:43:17,309 - __main__ - ERROR - Traceback: Traceback (most recent call last):
+  File "/Users/anmolsureka/Documents/insurance verification/main.py", line 94, in main
+    from src.dashboard.app import DashboardApp
+  File "/Users/anmolsureka/Documents/insurance verification/src/dashboard/app.py", line 16, in <module>
+    from src.data_management.enhanced_parts_mapper import EnhancedPartsMapper
+  File "/Users/anmolsureka/Documents/insurance verification/src/data_management/enhanced_parts_mapper.py", line 4, in <module>
+    from langchain_community.embeddings import SentenceTransformerEmbeddings
+ModuleNotFoundError: No module named 'langchain_community'
+
+2025-02-14 19:43:44,870 - __main__ - INFO - Starting application...
+2025-02-14 19:43:49,932 - __main__ - ERROR - Application startup failed: No module named 'sentence_transformers'
+2025-02-14 19:43:49,934 - __main__ - ERROR - Traceback: Traceback (most recent call last):
+  File "/Users/anmolsureka/Documents/insurance verification/main.py", line 94, in main
+    from src.dashboard.app import DashboardApp
+  File "/Users/anmolsureka/Documents/insurance verification/src/dashboard/app.py", line 16, in <module>
+    from src.data_management.enhanced_parts_mapper import EnhancedPartsMapper
+  File "/Users/anmolsureka/Documents/insurance verification/src/data_management/enhanced_parts_mapper.py", line 14, in <module>
+    from sentence_transformers import SentenceTransformer
+ModuleNotFoundError: No module named 'sentence_transformers'
+
+2025-02-14 19:45:14,705 - __main__ - INFO - Starting application...
+2025-02-14 19:45:57,527 - __main__ - ERROR - Application startup failed: No module named 'rapidfuzz'
+2025-02-14 19:45:57,528 - __main__ - ERROR - Traceback: Traceback (most recent call last):
+  File "/Users/anmolsureka/Documents/insurance verification/main.py", line 94, in main
+    from src.dashboard.app import DashboardApp
+  File "/Users/anmolsureka/Documents/insurance verification/src/dashboard/app.py", line 28, in <module>
+    from src.data_management.parts_manager import PartsManager
+  File "/Users/anmolsureka/Documents/insurance verification/src/data_management/parts_manager.py", line 3, in <module>
+    from rapidfuzz import fuzz, process
+ModuleNotFoundError: No module named 'rapidfuzz'
+
+2025-02-14 19:46:20,649 - __main__ - INFO - Starting application...
+2025-02-14 19:46:26,130 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 19:46:26,130 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-02-14 19:46:30,950 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-02-14 19:46:34,837 - src.data_management.enhanced_parts_mapper - INFO - Models initialized successfully
+2025-02-14 19:46:34,849 - src.data_management.data_loader - INFO - Loaded 100 parts from catalog
+2025-02-14 19:46:34,859 - src.dashboard.app - INFO - Loaded 100 records from Primary_Parts_Code.csv
+2025-02-14 19:46:34,865 - __main__ - INFO - Application started successfully
+2025-02-14 19:46:38,248 - __main__ - INFO - Starting application...
+2025-02-14 19:46:38,251 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 19:46:38,251 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-02-14 19:46:43,104 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-02-14 19:46:47,320 - src.data_management.enhanced_parts_mapper - INFO - Models initialized successfully
+2025-02-14 19:46:47,322 - src.data_management.data_loader - INFO - Loaded 100 parts from catalog
+2025-02-14 19:46:47,326 - src.dashboard.app - INFO - Loaded 100 records from Primary_Parts_Code.csv
+2025-02-14 19:46:47,327 - __main__ - INFO - Application started successfully
+2025-02-14 19:46:50,173 - __main__ - INFO - Starting application...
+2025-02-14 19:46:50,177 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 19:46:50,177 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-02-14 19:46:51,573 - __main__ - INFO - Starting application...
+2025-02-14 19:46:51,578 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 19:46:51,579 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-02-14 19:46:54,311 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-02-14 19:46:54,926 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-02-14 19:46:56,929 - src.data_management.enhanced_parts_mapper - INFO - Models initialized successfully
+2025-02-14 19:46:56,930 - src.data_management.data_loader - INFO - Loaded 100 parts from catalog
+2025-02-14 19:46:56,931 - src.dashboard.app - INFO - Loaded 100 records from Primary_Parts_Code.csv
+2025-02-14 19:46:57,415 - src.data_management.enhanced_parts_mapper - INFO - Models initialized successfully
+2025-02-14 19:46:57,417 - src.data_management.data_loader - INFO - Loaded 100 parts from catalog
+2025-02-14 19:46:57,421 - src.dashboard.app - INFO - Loaded 100 records from Primary_Parts_Code.csv
+2025-02-14 19:46:57,423 - __main__ - INFO - Application started successfully
+2025-02-14 19:47:00,221 - __main__ - INFO - Starting application...
+2025-02-14 19:47:00,225 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 19:47:00,225 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-02-14 19:47:03,754 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-02-14 19:47:07,415 - src.data_management.enhanced_parts_mapper - INFO - Models initialized successfully
+2025-02-14 19:47:07,418 - src.data_management.data_loader - INFO - Loaded 100 parts from catalog
+2025-02-14 19:47:07,423 - src.dashboard.app - INFO - Loaded 100 records from Primary_Parts_Code.csv
+2025-02-14 19:47:07,425 - __main__ - INFO - Application started successfully
+2025-02-14 19:47:16,973 - __main__ - INFO - Starting application...
+2025-02-14 19:47:16,976 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 19:47:16,976 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-02-14 19:47:17,636 - __main__ - INFO - Starting application...
+2025-02-14 19:47:17,639 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 19:47:17,639 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-02-14 19:47:18,306 - __main__ - INFO - Starting application...
+2025-02-14 19:47:18,310 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 19:47:18,310 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-02-14 19:47:20,011 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-02-14 19:47:21,312 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-02-14 19:47:21,373 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-02-14 19:47:23,483 - src.data_management.enhanced_parts_mapper - INFO - Models initialized successfully
+2025-02-14 19:47:23,488 - src.data_management.data_loader - INFO - Loaded 100 parts from catalog
+2025-02-14 19:47:23,492 - src.dashboard.app - INFO - Loaded 100 records from Primary_Parts_Code.csv
+2025-02-14 19:47:25,485 - src.data_management.enhanced_parts_mapper - INFO - Models initialized successfully
+2025-02-14 19:47:25,486 - src.data_management.data_loader - INFO - Loaded 100 parts from catalog
+2025-02-14 19:47:25,486 - src.dashboard.app - INFO - Loaded 100 records from Primary_Parts_Code.csv
+2025-02-14 19:47:26,651 - src.data_management.enhanced_parts_mapper - INFO - Models initialized successfully
+2025-02-14 19:47:26,655 - src.data_management.data_loader - INFO - Loaded 100 parts from catalog
+2025-02-14 19:47:26,660 - src.dashboard.app - INFO - Loaded 100 records from Primary_Parts_Code.csv
+2025-02-14 19:47:26,662 - __main__ - INFO - Application started successfully
+2025-02-14 19:47:46,772 - __main__ - INFO - Starting application...
+2025-02-14 19:47:46,777 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 19:47:46,777 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-02-14 19:47:51,229 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-02-14 19:47:54,342 - src.data_management.enhanced_parts_mapper - INFO - Models initialized successfully
+2025-02-14 19:47:54,344 - src.data_management.data_loader - INFO - Loaded 100 parts from catalog
+2025-02-14 19:47:54,347 - src.dashboard.app - INFO - Loaded 100 records from Primary_Parts_Code.csv
+2025-02-14 19:47:54,349 - __main__ - INFO - Application started successfully
+2025-02-14 19:47:56,223 - __main__ - INFO - Starting application...
+2025-02-14 19:47:56,226 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 19:47:56,227 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-02-14 19:48:00,176 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-02-14 19:48:03,720 - src.data_management.enhanced_parts_mapper - INFO - Models initialized successfully
+2025-02-14 19:48:03,723 - src.data_management.data_loader - INFO - Loaded 100 parts from catalog
+2025-02-14 19:48:03,726 - src.dashboard.app - INFO - Loaded 100 records from Primary_Parts_Code.csv
+2025-02-14 19:48:03,728 - __main__ - INFO - Application started successfully
+2025-02-14 20:09:07,756 - __main__ - INFO - Starting application...
+2025-02-14 20:09:11,178 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 20:09:11,178 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-02-14 20:09:16,548 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-02-14 20:09:20,457 - src.data_management.enhanced_parts_mapper - INFO - Models initialized successfully
+2025-02-14 20:09:20,467 - src.data_management.data_loader - INFO - Loaded 100 parts from catalog
+2025-02-14 20:09:20,477 - src.dashboard.app - INFO - Loaded 100 records from Primary_Parts_Code.csv
+2025-02-14 20:09:20,483 - __main__ - INFO - Application started successfully
+2025-02-14 20:09:28,971 - __main__ - INFO - Starting application...
+2025-02-14 20:09:28,974 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 20:09:28,974 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-02-14 20:09:30,427 - __main__ - INFO - Starting application...
+2025-02-14 20:09:30,430 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 20:09:30,430 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-02-14 20:09:33,350 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-02-14 20:09:34,776 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-02-14 20:09:37,045 - src.data_management.enhanced_parts_mapper - INFO - Models initialized successfully
+2025-02-14 20:09:37,049 - src.data_management.data_loader - INFO - Loaded 100 parts from catalog
+2025-02-14 20:09:37,054 - src.dashboard.app - INFO - Loaded 100 records from Primary_Parts_Code.csv
+2025-02-14 20:09:38,890 - src.data_management.enhanced_parts_mapper - INFO - Models initialized successfully
+2025-02-14 20:09:38,892 - src.data_management.data_loader - INFO - Loaded 100 parts from catalog
+2025-02-14 20:09:38,895 - src.dashboard.app - INFO - Loaded 100 records from Primary_Parts_Code.csv
+2025-02-14 20:09:38,896 - __main__ - INFO - Application started successfully
+2025-02-14 20:09:41,393 - __main__ - INFO - Starting application...
+2025-02-14 20:09:41,395 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 20:09:41,396 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-02-14 20:09:45,006 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-02-14 20:09:48,447 - src.data_management.enhanced_parts_mapper - INFO - Models initialized successfully
+2025-02-14 20:09:48,450 - src.data_management.data_loader - INFO - Loaded 100 parts from catalog
+2025-02-14 20:09:48,453 - src.dashboard.app - INFO - Loaded 100 records from Primary_Parts_Code.csv
+2025-02-14 20:09:48,454 - __main__ - INFO - Application started successfully

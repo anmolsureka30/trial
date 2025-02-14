@@ -1,0 +1,67 @@
+2025-02-14 18:46:00,710 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 18:46:00,710 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 18:47:40,236 - src.data_management.enhanced_parts_mapper - INFO - Models initialized successfully
+2025-02-14 18:47:42,272 - faiss.loader - INFO - Loading faiss.
+2025-02-14 18:47:42,903 - faiss.loader - INFO - Successfully loaded faiss.
+2025-02-14 18:47:42,909 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-02-14 18:47:42,911 - src.data_management.enhanced_parts_mapper - INFO - Loaded 29 parts into vector store
+2025-02-14 18:47:52,811 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 18:47:52,811 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 18:47:57,007 - src.data_management.enhanced_parts_mapper - INFO - Models initialized successfully
+2025-02-14 18:47:57,083 - src.data_management.enhanced_parts_mapper - INFO - Loaded 29 parts into vector store
+2025-02-14 18:48:00,349 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 18:48:00,349 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 18:48:04,334 - src.data_management.enhanced_parts_mapper - INFO - Models initialized successfully
+2025-02-14 18:48:04,401 - src.data_management.enhanced_parts_mapper - INFO - Loaded 29 parts into vector store
+2025-02-14 18:48:17,549 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 18:48:17,550 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 18:48:22,416 - src.data_management.enhanced_parts_mapper - INFO - Models initialized successfully
+2025-02-14 18:48:22,486 - src.data_management.enhanced_parts_mapper - INFO - Loaded 29 parts into vector store
+2025-02-14 18:49:06,241 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 18:49:06,241 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 18:49:10,398 - src.data_management.enhanced_parts_mapper - INFO - Models initialized successfully
+2025-02-14 18:49:10,600 - faiss.loader - INFO - Loading faiss.
+2025-02-14 18:49:10,619 - faiss.loader - INFO - Successfully loaded faiss.
+2025-02-14 18:49:10,622 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-02-14 18:49:10,623 - src.data_management.enhanced_parts_mapper - INFO - Loaded 29 parts into vector store
+2025-02-14 18:51:47,336 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 18:51:47,336 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-02-14 18:51:52,489 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-02-14 18:51:55,538 - src.data_management.enhanced_parts_mapper - INFO - Models initialized successfully
+2025-02-14 18:51:55,670 - faiss.loader - INFO - Loading faiss.
+2025-02-14 18:51:55,691 - faiss.loader - INFO - Successfully loaded faiss.
+2025-02-14 18:51:55,694 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-02-14 18:51:55,810 - src.data_management.enhanced_parts_mapper - INFO - Loaded 29 parts into vector store
+2025-02-14 18:52:51,638 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 18:52:51,639 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-02-14 18:52:55,075 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-02-14 18:52:58,003 - src.data_management.enhanced_parts_mapper - INFO - Models initialized successfully
+2025-02-14 18:52:58,128 - src.data_management.enhanced_parts_mapper - INFO - Loaded 29 parts into vector store
+2025-02-14 18:53:35,486 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 18:53:35,486 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-02-14 18:53:39,637 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-02-14 18:53:42,758 - src.data_management.enhanced_parts_mapper - INFO - Models initialized successfully
+2025-02-14 18:53:42,885 - faiss.loader - INFO - Loading faiss.
+2025-02-14 18:53:42,905 - faiss.loader - INFO - Successfully loaded faiss.
+2025-02-14 18:53:42,908 - faiss - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-02-14 18:53:43,000 - src.data_management.enhanced_parts_mapper - INFO - Loaded 29 parts into vector store
+2025-02-14 18:53:46,715 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 18:53:46,715 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-02-14 18:53:51,263 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-02-14 18:53:54,463 - src.data_management.enhanced_parts_mapper - INFO - Models initialized successfully
+2025-02-14 18:53:54,588 - src.data_management.enhanced_parts_mapper - INFO - Loaded 29 parts into vector store
+2025-02-14 18:53:57,462 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 18:53:57,462 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-02-14 18:54:00,954 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-02-14 18:54:04,845 - src.data_management.enhanced_parts_mapper - INFO - Models initialized successfully
+2025-02-14 18:54:04,967 - src.data_management.enhanced_parts_mapper - INFO - Loaded 29 parts into vector store
+2025-02-14 18:54:11,119 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 18:54:11,119 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-02-14 18:54:15,118 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-02-14 18:54:18,386 - src.data_management.enhanced_parts_mapper - INFO - Models initialized successfully
+2025-02-14 18:54:18,504 - src.data_management.enhanced_parts_mapper - INFO - Loaded 29 parts into vector store
+2025-02-14 18:54:22,113 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 18:54:22,113 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-02-14 18:54:26,155 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-02-14 18:54:30,371 - src.data_management.enhanced_parts_mapper - INFO - Models initialized successfully
+2025-02-14 18:54:30,494 - src.data_management.enhanced_parts_mapper - INFO - Loaded 29 parts into vector store

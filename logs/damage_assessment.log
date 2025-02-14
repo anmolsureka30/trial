@@ -1,0 +1,529 @@
+2025-02-14 20:47:53,948 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 20:47:54,675 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 20:47:54,675 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 20:47:59,323 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 20:48:00,851 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-14 20:48:01,432 - src.ai_services.gemini_service - ERROR - Knowledge base loading failed: list index out of range
+2025-02-14 20:48:01,432 - src.ai_services.gemini_service - ERROR - Failed to initialize GeminiService: list index out of range
+2025-02-14 20:48:01,432 - src.claims_processing.claims_processor - ERROR - Component setup failed: list index out of range
+2025-02-14 20:48:01,432 - src.claims_processing.claims_processor - ERROR - Failed to initialize ClaimsProcessor: list index out of range
+2025-02-14 20:53:40,683 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 20:53:40,919 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 20:53:40,920 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 20:53:46,033 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 20:53:46,198 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-14 20:53:46,290 - src.ai_services.gemini_service - ERROR - Knowledge base loading failed: list index out of range
+2025-02-14 20:53:46,290 - src.ai_services.gemini_service - ERROR - Failed to initialize GeminiService: list index out of range
+2025-02-14 20:53:46,290 - src.claims_processing.claims_processor - ERROR - Component setup failed: list index out of range
+2025-02-14 20:53:46,290 - src.claims_processing.claims_processor - ERROR - Failed to initialize ClaimsProcessor: list index out of range
+2025-02-14 22:03:49,191 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 22:03:49,419 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 22:03:49,419 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 22:03:53,186 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 22:03:53,354 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-14 22:03:53,444 - src.ai_services.gemini_service - ERROR - Knowledge base loading failed: list index out of range
+2025-02-14 22:03:53,444 - src.ai_services.gemini_service - ERROR - Failed to initialize GeminiService: list index out of range
+2025-02-14 22:03:53,444 - src.claims_processing.claims_processor - ERROR - Component setup failed: list index out of range
+2025-02-14 22:03:53,444 - src.claims_processing.claims_processor - ERROR - Failed to initialize ClaimsProcessor: list index out of range
+2025-02-14 22:04:40,642 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 22:04:40,785 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 22:04:40,785 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 22:04:44,368 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 22:04:44,551 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-14 22:04:44,641 - src.ai_services.gemini_service - ERROR - Knowledge base loading failed: list index out of range
+2025-02-14 22:04:44,641 - src.ai_services.gemini_service - ERROR - Failed to initialize GeminiService: list index out of range
+2025-02-14 22:04:44,641 - src.claims_processing.claims_processor - ERROR - Component setup failed: list index out of range
+2025-02-14 22:04:44,641 - src.claims_processing.claims_processor - ERROR - Failed to initialize ClaimsProcessor: list index out of range
+2025-02-14 22:13:38,019 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 22:13:38,265 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 22:13:38,265 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 22:13:43,307 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 22:13:43,491 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-14 22:13:43,585 - src.ai_services.gemini_service - ERROR - Knowledge base loading failed: list index out of range
+2025-02-14 22:13:43,585 - src.ai_services.gemini_service - ERROR - Failed to initialize GeminiService: list index out of range
+2025-02-14 22:13:43,585 - src.claims_processing.claims_processor - ERROR - Component setup failed: list index out of range
+2025-02-14 22:13:43,585 - src.claims_processing.claims_processor - ERROR - Failed to initialize ClaimsProcessor: list index out of range
+2025-02-14 22:13:48,404 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 22:13:48,600 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 22:13:48,600 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 22:13:52,133 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 22:13:52,133 - src.ai_services.gemini_service - WARNING - No documents found in knowledge base
+2025-02-14 22:13:52,133 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 22:13:52,133 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 22:13:55,012 - src.data_management.parts_mapping_service - INFO - RAG components initialized successfully
+2025-02-14 22:13:55,012 - src.data_management.parts_mapping_service - ERROR - Failed to load reference data: [Errno 2] No such file or directory: 'data/Primary_Parts_Code.csv'
+2025-02-14 22:13:55,012 - src.data_management.parts_mapping_service - ERROR - Failed to initialize PartsMapperRAG: [Errno 2] No such file or directory: 'data/Primary_Parts_Code.csv'
+2025-02-14 22:13:55,012 - src.claims_processing.claims_processor - ERROR - Component setup failed: [Errno 2] No such file or directory: 'data/Primary_Parts_Code.csv'
+2025-02-14 22:13:55,012 - src.claims_processing.claims_processor - ERROR - Failed to initialize ClaimsProcessor: [Errno 2] No such file or directory: 'data/Primary_Parts_Code.csv'
+2025-02-14 22:15:10,177 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 22:15:10,324 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 22:15:10,324 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 22:15:13,790 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 22:15:13,790 - src.ai_services.gemini_service - WARNING - No documents found in knowledge base
+2025-02-14 22:15:13,790 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 22:15:13,790 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 22:15:17,325 - src.data_management.parts_mapping_service - INFO - RAG components initialized successfully
+2025-02-14 22:15:17,326 - src.data_management.parts_mapping_service - ERROR - Failed to load reference data: [Errno 2] No such file or directory: 'data/Primary_Parts_Code.csv'
+2025-02-14 22:15:17,327 - src.data_management.parts_mapping_service - ERROR - Failed to initialize PartsMapperRAG: [Errno 2] No such file or directory: 'data/Primary_Parts_Code.csv'
+2025-02-14 22:15:17,327 - src.claims_processing.claims_processor - ERROR - Component setup failed: [Errno 2] No such file or directory: 'data/Primary_Parts_Code.csv'
+2025-02-14 22:15:17,327 - src.claims_processing.claims_processor - ERROR - Failed to initialize ClaimsProcessor: [Errno 2] No such file or directory: 'data/Primary_Parts_Code.csv'
+2025-02-14 22:17:02,958 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 22:17:03,106 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 22:17:03,106 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 22:17:07,959 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 22:17:07,961 - src.ai_services.gemini_service - WARNING - No documents found in knowledge base
+2025-02-14 22:17:07,961 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 22:17:07,961 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 22:17:11,610 - src.data_management.parts_mapping_service - INFO - RAG components initialized successfully
+2025-02-14 22:17:11,612 - src.data_management.parts_mapping_service - ERROR - Failed to load reference data: [Errno 2] No such file or directory: 'data/Primary_Parts_Code.csv'
+2025-02-14 22:17:11,612 - src.data_management.parts_mapping_service - ERROR - Failed to initialize PartsMapperRAG: [Errno 2] No such file or directory: 'data/Primary_Parts_Code.csv'
+2025-02-14 22:17:11,612 - src.claims_processing.claims_processor - ERROR - Component setup failed: [Errno 2] No such file or directory: 'data/Primary_Parts_Code.csv'
+2025-02-14 22:17:11,612 - src.claims_processing.claims_processor - ERROR - Failed to initialize ClaimsProcessor: [Errno 2] No such file or directory: 'data/Primary_Parts_Code.csv'
+2025-02-14 22:21:04,462 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 22:21:04,683 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 22:21:04,683 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 22:21:07,911 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 22:21:07,912 - src.ai_services.gemini_service - WARNING - No documents found in knowledge base
+2025-02-14 22:21:07,912 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 22:21:07,912 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 22:21:10,241 - src.data_management.parts_mapping_service - INFO - RAG components initialized successfully
+2025-02-14 22:21:10,242 - src.data_management.parts_mapping_service - ERROR - Failed to load reference data: [Errno 2] No such file or directory: 'data/Primary_Parts_Code.csv'
+2025-02-14 22:21:10,242 - src.data_management.parts_mapping_service - ERROR - Failed to initialize PartsMapperRAG: [Errno 2] No such file or directory: 'data/Primary_Parts_Code.csv'
+2025-02-14 22:21:10,242 - src.claims_processing.claims_processor - ERROR - Component setup failed: [Errno 2] No such file or directory: 'data/Primary_Parts_Code.csv'
+2025-02-14 22:21:10,242 - src.claims_processing.claims_processor - ERROR - Failed to initialize ClaimsProcessor: [Errno 2] No such file or directory: 'data/Primary_Parts_Code.csv'
+2025-02-14 22:21:25,950 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 22:21:26,143 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 22:21:26,143 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 22:21:29,608 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 22:21:29,609 - src.ai_services.gemini_service - WARNING - No documents found in knowledge base
+2025-02-14 22:21:29,609 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 22:21:29,609 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 22:21:33,068 - src.data_management.parts_mapping_service - INFO - RAG components initialized successfully
+2025-02-14 22:21:33,069 - src.data_management.parts_mapping_service - ERROR - Failed to load reference data: [Errno 2] No such file or directory: 'data/Primary_Parts_Code.csv'
+2025-02-14 22:21:33,069 - src.data_management.parts_mapping_service - ERROR - Failed to initialize PartsMapperRAG: [Errno 2] No such file or directory: 'data/Primary_Parts_Code.csv'
+2025-02-14 22:21:33,069 - src.claims_processing.claims_processor - ERROR - Component setup failed: [Errno 2] No such file or directory: 'data/Primary_Parts_Code.csv'
+2025-02-14 22:21:33,069 - src.claims_processing.claims_processor - ERROR - Failed to initialize ClaimsProcessor: [Errno 2] No such file or directory: 'data/Primary_Parts_Code.csv'
+2025-02-14 22:23:36,835 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 22:23:36,987 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 22:23:36,987 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 22:23:40,420 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 22:23:40,575 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-14 22:23:41,500 - src.ai_services.gemini_service - INFO - Loaded 3 document chunks into vector store
+2025-02-14 22:23:41,501 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 22:23:41,501 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 22:23:44,970 - src.data_management.parts_mapping_service - INFO - RAG components initialized successfully
+2025-02-14 22:23:44,975 - src.data_management.parts_mapping_service - INFO - Reference data loaded successfully
+2025-02-14 22:23:44,976 - src.data_management.parts_mapping_service - ERROR - Failed to create knowledge base: 'Part_Code'
+2025-02-14 22:23:44,976 - src.data_management.parts_mapping_service - ERROR - Failed to initialize PartsMapperRAG: 'Part_Code'
+2025-02-14 22:23:44,976 - src.claims_processing.claims_processor - ERROR - Component setup failed: 'Part_Code'
+2025-02-14 22:23:44,976 - src.claims_processing.claims_processor - ERROR - Failed to initialize ClaimsProcessor: 'Part_Code'
+2025-02-14 22:25:51,812 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 22:25:51,975 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 22:25:51,975 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 22:25:57,390 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 22:25:57,576 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-14 22:25:57,826 - src.ai_services.gemini_service - INFO - Loaded 3 document chunks into vector store
+2025-02-14 22:25:57,827 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 22:25:57,827 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 22:26:01,687 - src.data_management.parts_mapping_service - INFO - RAG components initialized successfully
+2025-02-14 22:26:01,693 - src.data_management.parts_mapping_service - INFO - Reference data loaded successfully
+2025-02-14 22:26:01,693 - src.data_management.parts_mapping_service - ERROR - Failed to create knowledge base: 'Part_Code'
+2025-02-14 22:26:01,693 - src.data_management.parts_mapping_service - ERROR - Failed to initialize PartsMapperRAG: 'Part_Code'
+2025-02-14 22:26:01,693 - src.claims_processing.claims_processor - ERROR - Component setup failed: 'Part_Code'
+2025-02-14 22:26:01,693 - src.claims_processing.claims_processor - ERROR - Failed to initialize ClaimsProcessor: 'Part_Code'
+2025-02-14 22:26:14,834 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 22:26:15,005 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 22:26:15,005 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 22:26:18,685 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 22:26:18,874 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-14 22:26:19,075 - src.ai_services.gemini_service - INFO - Loaded 3 document chunks into vector store
+2025-02-14 22:26:19,076 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 22:26:19,076 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 22:26:22,888 - src.data_management.parts_mapping_service - INFO - RAG components initialized successfully
+2025-02-14 22:26:22,891 - src.data_management.parts_mapping_service - INFO - Reference data loaded successfully
+2025-02-14 22:26:22,891 - src.data_management.parts_mapping_service - ERROR - Failed to create knowledge base: 'Part_Code'
+2025-02-14 22:26:22,891 - src.data_management.parts_mapping_service - ERROR - Failed to initialize PartsMapperRAG: 'Part_Code'
+2025-02-14 22:26:22,891 - src.claims_processing.claims_processor - ERROR - Component setup failed: 'Part_Code'
+2025-02-14 22:26:22,891 - src.claims_processing.claims_processor - ERROR - Failed to initialize ClaimsProcessor: 'Part_Code'
+2025-02-14 22:32:48,662 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 22:32:48,905 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 22:32:48,905 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 22:32:53,664 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 22:32:53,833 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-14 22:32:54,154 - src.ai_services.gemini_service - INFO - Loaded 3 document chunks into vector store
+2025-02-14 22:32:54,155 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 22:32:54,155 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 22:32:57,050 - src.data_management.parts_mapping_service - INFO - RAG components initialized successfully
+2025-02-14 22:32:57,054 - src.data_management.parts_mapping_service - INFO - Reference data loaded successfully
+2025-02-14 22:32:58,437 - src.data_management.parts_mapping_service - INFO - Created knowledge base with 100 parts
+2025-02-14 22:32:58,438 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 22:32:58,438 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 22:32:58,438 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 22:33:02,430 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 22:33:02,474 - src.ai_services.gemini_service - INFO - Loaded 3 document chunks into vector store
+2025-02-14 22:33:02,474 - src.claims_processing.claims_processor - INFO - All components initialized successfully
+2025-02-14 22:33:02,477 - src.claims_processing.claims_processor - INFO - Reference data loaded successfully
+2025-02-14 22:36:22,575 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 22:36:22,769 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 22:36:22,769 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 22:36:26,394 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 22:36:26,561 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-14 22:36:26,792 - src.ai_services.gemini_service - INFO - Loaded 3 document chunks into vector store
+2025-02-14 22:36:26,792 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 22:36:26,792 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 22:36:29,370 - src.data_management.parts_mapping_service - INFO - RAG components initialized successfully
+2025-02-14 22:36:29,377 - src.data_management.parts_mapping_service - INFO - Reference data loaded successfully
+2025-02-14 22:36:30,286 - src.data_management.parts_mapping_service - INFO - Created knowledge base with 100 parts
+2025-02-14 22:36:30,287 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 22:36:30,287 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 22:36:30,287 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 22:36:33,649 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 22:36:33,684 - src.ai_services.gemini_service - INFO - Loaded 3 document chunks into vector store
+2025-02-14 22:36:33,684 - src.claims_processing.claims_processor - INFO - All components initialized successfully
+2025-02-14 22:36:33,686 - src.claims_processing.claims_processor - INFO - Reference data loaded successfully
+2025-02-14 22:36:37,561 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 22:36:41,614 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 22:36:43,318 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 22:36:46,566 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 22:36:47,934 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 22:37:03,046 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 22:37:08,486 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 22:37:12,536 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 22:37:18,332 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 22:37:25,722 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 22:37:28,056 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 22:37:32,801 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 22:37:34,304 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 22:42:00,523 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 22:42:56,218 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 22:42:56,454 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 22:42:56,454 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 22:43:01,120 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 22:43:01,276 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-14 22:43:01,492 - src.ai_services.gemini_service - INFO - Loaded 3 document chunks into vector store
+2025-02-14 22:43:01,493 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 22:43:01,493 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 22:43:04,451 - src.data_management.parts_mapping_service - INFO - RAG components initialized successfully
+2025-02-14 22:43:04,453 - src.data_management.parts_mapping_service - INFO - Reference data loaded successfully
+2025-02-14 22:43:05,316 - src.data_management.parts_mapping_service - INFO - Created knowledge base with 100 parts
+2025-02-14 22:43:05,317 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 22:43:05,317 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 22:43:05,317 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 22:43:08,694 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 22:43:08,744 - src.ai_services.gemini_service - INFO - Loaded 3 document chunks into vector store
+2025-02-14 22:43:08,744 - src.claims_processing.claims_processor - INFO - All components initialized successfully
+2025-02-14 22:43:08,747 - src.claims_processing.claims_processor - INFO - Reference data loaded successfully
+2025-02-14 22:43:28,250 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 22:43:28,439 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 22:43:28,440 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 22:43:33,250 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 22:43:33,404 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-14 22:43:33,619 - src.ai_services.gemini_service - INFO - Loaded 3 document chunks into vector store
+2025-02-14 22:43:33,619 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 22:43:33,619 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 22:43:36,951 - src.data_management.parts_mapping_service - INFO - RAG components initialized successfully
+2025-02-14 22:43:36,953 - src.data_management.parts_mapping_service - INFO - Reference data loaded successfully
+2025-02-14 22:43:37,821 - src.data_management.parts_mapping_service - INFO - Created knowledge base with 100 parts
+2025-02-14 22:43:37,822 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 22:43:37,822 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 22:43:37,822 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 22:43:40,780 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 22:43:40,827 - src.ai_services.gemini_service - INFO - Loaded 3 document chunks into vector store
+2025-02-14 22:43:40,828 - src.claims_processing.claims_processor - INFO - All components initialized successfully
+2025-02-14 22:43:40,830 - src.claims_processing.claims_processor - INFO - Reference data loaded successfully
+2025-02-14 22:43:43,366 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 22:43:48,239 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 22:43:53,349 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 22:43:57,383 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 22:44:01,372 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 22:44:04,669 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 22:44:08,315 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 22:44:48,848 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 22:44:58,475 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 22:45:03,200 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 22:45:06,439 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 22:45:08,939 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 23:04:08,223 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 23:04:13,836 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 23:04:21,500 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 23:06:34,667 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 23:06:51,834 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 23:07:00,397 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 23:11:42,976 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 23:11:43,225 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:11:43,225 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 23:11:49,341 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 23:11:49,504 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-14 23:11:49,744 - src.ai_services.gemini_service - INFO - Loaded 3 document chunks into vector store
+2025-02-14 23:11:49,745 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:11:49,745 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 23:11:53,467 - src.data_management.parts_mapping_service - INFO - RAG components initialized successfully
+2025-02-14 23:11:53,474 - src.data_management.parts_mapping_service - INFO - Reference data loaded successfully
+2025-02-14 23:11:54,351 - src.data_management.parts_mapping_service - INFO - Created knowledge base with 100 parts
+2025-02-14 23:11:54,352 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 23:11:54,352 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:11:54,352 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 23:11:58,979 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 23:11:59,008 - src.ai_services.gemini_service - INFO - Loaded 3 document chunks into vector store
+2025-02-14 23:11:59,008 - src.claims_processing.claims_processor - INFO - All components initialized successfully
+2025-02-14 23:11:59,010 - src.claims_processing.claims_processor - INFO - Reference data loaded successfully
+2025-02-14 23:12:28,030 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 23:12:28,216 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:12:28,216 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 23:12:31,638 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 23:12:31,790 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-14 23:12:32,018 - src.ai_services.gemini_service - INFO - Loaded 3 document chunks into vector store
+2025-02-14 23:12:32,018 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:12:32,018 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 23:12:34,814 - src.data_management.parts_mapping_service - INFO - RAG components initialized successfully
+2025-02-14 23:12:34,817 - src.data_management.parts_mapping_service - INFO - Reference data loaded successfully
+2025-02-14 23:12:35,703 - src.data_management.parts_mapping_service - INFO - Created knowledge base with 100 parts
+2025-02-14 23:12:35,703 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 23:12:35,703 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:12:35,703 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 23:12:39,587 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 23:12:39,630 - src.ai_services.gemini_service - INFO - Loaded 3 document chunks into vector store
+2025-02-14 23:12:39,630 - src.claims_processing.claims_processor - INFO - All components initialized successfully
+2025-02-14 23:12:39,633 - src.claims_processing.claims_processor - INFO - Reference data loaded successfully
+2025-02-14 23:12:44,469 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 23:12:47,297 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 23:16:23,538 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 23:16:23,764 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:16:23,764 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 23:16:27,756 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 23:16:27,907 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-14 23:16:28,167 - src.ai_services.gemini_service - INFO - Loaded 3 document chunks into vector store
+2025-02-14 23:16:28,167 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:16:28,167 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 23:16:30,715 - src.data_management.parts_mapping_service - INFO - RAG components initialized successfully
+2025-02-14 23:16:30,717 - src.data_management.parts_mapping_service - INFO - Reference data loaded successfully
+2025-02-14 23:16:31,590 - src.data_management.parts_mapping_service - INFO - Created knowledge base with 100 parts
+2025-02-14 23:16:31,591 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 23:16:31,591 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:16:31,591 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 23:16:34,438 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 23:16:34,491 - src.ai_services.gemini_service - INFO - Loaded 3 document chunks into vector store
+2025-02-14 23:16:34,491 - src.claims_processing.claims_processor - INFO - All components initialized successfully
+2025-02-14 23:16:34,495 - src.claims_processing.claims_processor - INFO - Reference data loaded successfully
+2025-02-14 23:16:37,353 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 23:16:37,590 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:16:37,590 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 23:16:40,921 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 23:16:41,071 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-14 23:16:41,331 - src.ai_services.gemini_service - INFO - Loaded 3 document chunks into vector store
+2025-02-14 23:16:41,331 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:16:41,331 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 23:16:43,916 - src.data_management.parts_mapping_service - INFO - RAG components initialized successfully
+2025-02-14 23:16:43,917 - src.data_management.parts_mapping_service - INFO - Reference data loaded successfully
+2025-02-14 23:16:44,797 - src.data_management.parts_mapping_service - INFO - Created knowledge base with 100 parts
+2025-02-14 23:16:44,797 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 23:16:44,797 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:16:44,797 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 23:16:47,785 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 23:16:47,841 - src.ai_services.gemini_service - INFO - Loaded 3 document chunks into vector store
+2025-02-14 23:16:47,841 - src.claims_processing.claims_processor - INFO - All components initialized successfully
+2025-02-14 23:16:47,844 - src.claims_processing.claims_processor - INFO - Reference data loaded successfully
+2025-02-14 23:17:02,254 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 23:17:02,449 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:17:02,450 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 23:17:05,379 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 23:17:05,539 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-14 23:17:05,798 - src.ai_services.gemini_service - INFO - Loaded 3 document chunks into vector store
+2025-02-14 23:17:05,798 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:17:05,798 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 23:17:08,623 - src.data_management.parts_mapping_service - INFO - RAG components initialized successfully
+2025-02-14 23:17:08,626 - src.data_management.parts_mapping_service - INFO - Reference data loaded successfully
+2025-02-14 23:17:09,496 - src.data_management.parts_mapping_service - INFO - Created knowledge base with 100 parts
+2025-02-14 23:17:09,497 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 23:17:09,497 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:17:09,497 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 23:17:12,535 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 23:17:12,589 - src.ai_services.gemini_service - INFO - Loaded 3 document chunks into vector store
+2025-02-14 23:17:12,590 - src.claims_processing.claims_processor - INFO - All components initialized successfully
+2025-02-14 23:17:12,593 - src.claims_processing.claims_processor - INFO - Reference data loaded successfully
+2025-02-14 23:17:12,593 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:17:12,593 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-02-14 23:17:24,664 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 23:17:24,854 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:17:24,854 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 23:17:28,461 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 23:17:28,604 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-14 23:17:28,875 - src.ai_services.gemini_service - INFO - Loaded 3 document chunks into vector store
+2025-02-14 23:17:28,875 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:17:28,875 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 23:17:31,917 - src.data_management.parts_mapping_service - INFO - RAG components initialized successfully
+2025-02-14 23:17:31,919 - src.data_management.parts_mapping_service - INFO - Reference data loaded successfully
+2025-02-14 23:17:32,979 - src.data_management.parts_mapping_service - INFO - Created knowledge base with 100 parts
+2025-02-14 23:17:32,979 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 23:17:32,979 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:17:32,979 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 23:18:05,319 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 23:18:05,363 - src.ai_services.gemini_service - INFO - Loaded 3 document chunks into vector store
+2025-02-14 23:18:05,363 - src.claims_processing.claims_processor - INFO - All components initialized successfully
+2025-02-14 23:18:05,367 - src.claims_processing.claims_processor - INFO - Reference data loaded successfully
+2025-02-14 23:18:05,367 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:18:05,367 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-02-14 23:18:36,600 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-14 23:18:39,634 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 23:18:42,282 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 23:23:50,601 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 23:23:50,790 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:23:50,790 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 23:23:55,893 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 23:23:56,044 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-14 23:23:56,306 - src.ai_services.gemini_service - INFO - Loaded 3 document chunks into vector store
+2025-02-14 23:23:56,306 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:23:56,306 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 23:24:00,205 - src.data_management.parts_mapping_service - INFO - RAG components initialized successfully
+2025-02-14 23:24:00,208 - src.data_management.parts_mapping_service - INFO - Reference data loaded successfully
+2025-02-14 23:24:01,110 - src.data_management.parts_mapping_service - INFO - Created knowledge base with 100 parts
+2025-02-14 23:24:01,111 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 23:24:01,111 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:24:01,111 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 23:24:04,988 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 23:24:05,039 - src.ai_services.gemini_service - INFO - Loaded 3 document chunks into vector store
+2025-02-14 23:24:05,039 - src.claims_processing.claims_processor - INFO - All components initialized successfully
+2025-02-14 23:24:05,042 - src.claims_processing.claims_processor - INFO - Reference data loaded successfully
+2025-02-14 23:24:05,042 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:24:05,042 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-02-14 23:24:08,247 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-14 23:24:14,099 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 23:24:14,288 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:24:14,289 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 23:24:28,084 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 23:24:28,235 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-14 23:24:28,436 - src.ai_services.gemini_service - INFO - Loaded 3 document chunks into vector store
+2025-02-14 23:24:28,436 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:24:28,436 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 23:24:31,287 - src.data_management.parts_mapping_service - INFO - RAG components initialized successfully
+2025-02-14 23:24:31,288 - src.data_management.parts_mapping_service - INFO - Reference data loaded successfully
+2025-02-14 23:24:32,184 - src.data_management.parts_mapping_service - INFO - Created knowledge base with 100 parts
+2025-02-14 23:24:32,184 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 23:24:32,184 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:24:32,184 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 23:24:45,480 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 23:24:45,526 - src.ai_services.gemini_service - INFO - Loaded 3 document chunks into vector store
+2025-02-14 23:24:45,526 - src.claims_processing.claims_processor - INFO - All components initialized successfully
+2025-02-14 23:24:45,529 - src.claims_processing.claims_processor - INFO - Reference data loaded successfully
+2025-02-14 23:24:45,529 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:24:45,529 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-02-14 23:24:49,017 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-14 23:24:51,842 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 23:24:53,846 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 23:25:04,493 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 23:26:39,398 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 23:26:39,637 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:26:39,637 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 23:26:43,283 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 23:26:43,443 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-14 23:26:43,661 - src.ai_services.gemini_service - INFO - Loaded 3 document chunks into vector store
+2025-02-14 23:26:43,661 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:26:43,661 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 23:26:46,616 - src.data_management.parts_mapping_service - INFO - RAG components initialized successfully
+2025-02-14 23:26:46,619 - src.data_management.parts_mapping_service - INFO - Reference data loaded successfully
+2025-02-14 23:26:47,531 - src.data_management.parts_mapping_service - INFO - Created knowledge base with 100 parts
+2025-02-14 23:26:47,532 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 23:26:47,532 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:26:47,532 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 23:26:51,651 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 23:26:51,679 - src.ai_services.gemini_service - INFO - Loaded 3 document chunks into vector store
+2025-02-14 23:26:51,679 - src.claims_processing.claims_processor - INFO - All components initialized successfully
+2025-02-14 23:26:51,682 - src.claims_processing.claims_processor - INFO - Reference data loaded successfully
+2025-02-14 23:26:51,682 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:26:51,682 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-02-14 23:26:58,825 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 23:26:59,021 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:26:59,021 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 23:27:02,331 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 23:27:02,482 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-14 23:27:02,703 - src.ai_services.gemini_service - INFO - Loaded 3 document chunks into vector store
+2025-02-14 23:27:02,703 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:27:02,703 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 23:27:05,881 - src.data_management.parts_mapping_service - INFO - RAG components initialized successfully
+2025-02-14 23:27:05,883 - src.data_management.parts_mapping_service - INFO - Reference data loaded successfully
+2025-02-14 23:27:06,792 - src.data_management.parts_mapping_service - INFO - Created knowledge base with 100 parts
+2025-02-14 23:27:06,793 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 23:27:06,793 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:27:06,793 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 23:27:10,450 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 23:27:10,494 - src.ai_services.gemini_service - INFO - Loaded 3 document chunks into vector store
+2025-02-14 23:27:10,494 - src.claims_processing.claims_processor - INFO - All components initialized successfully
+2025-02-14 23:27:10,496 - src.claims_processing.claims_processor - INFO - Reference data loaded successfully
+2025-02-14 23:27:10,497 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:27:10,497 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-02-14 23:27:13,950 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-14 23:27:16,879 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 23:27:22,580 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 23:29:00,147 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 23:29:10,193 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 23:29:48,994 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 23:29:49,181 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:29:49,181 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 23:29:53,248 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 23:29:53,407 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-14 23:29:53,644 - src.ai_services.gemini_service - INFO - Loaded 3 document chunks into vector store
+2025-02-14 23:29:53,644 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:29:53,644 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 23:29:57,167 - src.data_management.parts_mapping_service - INFO - RAG components initialized successfully
+2025-02-14 23:29:57,171 - src.data_management.parts_mapping_service - INFO - Reference data loaded successfully
+2025-02-14 23:29:58,075 - src.data_management.parts_mapping_service - INFO - Created knowledge base with 100 parts
+2025-02-14 23:29:58,075 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 23:29:58,075 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:29:58,075 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 23:30:02,483 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 23:30:02,527 - src.ai_services.gemini_service - INFO - Loaded 3 document chunks into vector store
+2025-02-14 23:30:02,527 - src.claims_processing.claims_processor - INFO - All components initialized successfully
+2025-02-14 23:30:02,530 - src.claims_processing.claims_processor - INFO - Reference data loaded successfully
+2025-02-14 23:30:02,530 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:30:02,530 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-02-14 23:30:06,062 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-14 23:30:17,651 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 23:30:17,841 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:30:17,841 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 23:30:21,239 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 23:30:21,393 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-14 23:30:21,621 - src.ai_services.gemini_service - INFO - Loaded 3 document chunks into vector store
+2025-02-14 23:30:21,621 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:30:21,621 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 23:30:25,816 - src.data_management.parts_mapping_service - INFO - RAG components initialized successfully
+2025-02-14 23:30:25,819 - src.data_management.parts_mapping_service - INFO - Reference data loaded successfully
+2025-02-14 23:30:26,739 - src.data_management.parts_mapping_service - INFO - Created knowledge base with 100 parts
+2025-02-14 23:30:26,740 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 23:30:26,740 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:30:26,740 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 23:30:30,572 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 23:30:30,624 - src.ai_services.gemini_service - INFO - Loaded 3 document chunks into vector store
+2025-02-14 23:30:30,624 - src.claims_processing.claims_processor - INFO - All components initialized successfully
+2025-02-14 23:30:30,627 - src.claims_processing.claims_processor - INFO - Reference data loaded successfully
+2025-02-14 23:30:30,627 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:30:30,627 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-02-14 23:30:33,779 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-14 23:30:36,209 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 23:30:39,664 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 23:31:46,727 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 23:31:51,411 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 23:32:26,722 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 23:32:35,598 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 23:35:21,289 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 23:35:21,476 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:35:21,476 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 23:35:25,770 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 23:35:25,918 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-14 23:35:26,162 - src.ai_services.gemini_service - INFO - Loaded 3 document chunks into vector store
+2025-02-14 23:35:26,163 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:35:26,163 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 23:35:28,974 - src.data_management.parts_mapping_service - INFO - RAG components initialized successfully
+2025-02-14 23:35:28,978 - src.data_management.parts_mapping_service - INFO - Reference data loaded successfully
+2025-02-14 23:35:29,891 - src.data_management.parts_mapping_service - INFO - Created knowledge base with 100 parts
+2025-02-14 23:35:29,891 - src.ai_services.gemini_service - INFO - Gemini API setup successful
+2025-02-14 23:35:29,891 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:35:29,891 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-02-14 23:35:33,082 - src.ai_services.gemini_service - INFO - RAG components setup successful
+2025-02-14 23:35:33,150 - src.ai_services.gemini_service - INFO - Loaded 3 document chunks into vector store
+2025-02-14 23:35:33,151 - src.claims_processing.claims_processor - INFO - All components initialized successfully
+2025-02-14 23:35:33,155 - src.claims_processing.claims_processor - INFO - Reference data loaded successfully
+2025-02-14 23:35:33,155 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-02-14 23:35:33,155 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-02-14 23:35:35,801 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-14 23:35:39,264 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found
+2025-02-14 23:35:45,234 - src.api.claims_api - ERROR - API Error - Get Claim: 404: Claim not found

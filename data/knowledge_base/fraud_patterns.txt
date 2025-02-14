@@ -1,0 +1,7 @@
+
+            Common fraud patterns in insurance claims:
+            1. Multiple claims for same damage
+            2. Inflated repair costs
+            3. Pre-existing damage claims
+            4. Staged accidents
+            

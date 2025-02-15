@@ -8,7 +8,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 from collections import defaultdict
 
 class SmartRecommender:
-    def __init__(self, db_path: str = "data/recommendations.db"):
+    def __init__(self, db_path: str = ":memory:"):
         """Initialize the smart recommendation system"""
         self.db_path = db_path
         self.setup_logging()
@@ -20,7 +20,7 @@ class SmartRecommender:
         logging.basicConfig(
             level=logging.INFO,
             format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
-            filename='logs/recommendations.log'
+            force=True
         )
         self.logger = logging.getLogger(__name__)
         

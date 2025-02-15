@@ -28,6 +28,20 @@ from src.recommendations.smart_recommender import SmartRecommender
 from src.data_management.parts_manager import PartsManager
 from src.dashboard.visualization_helpers import create_parts_network, create_confidence_heatmap
 
+# Handle optional imports gracefully
+try:
+    import networkx as nx
+    NETWORKX_AVAILABLE = True
+except ImportError:
+    NETWORKX_AVAILABLE = False
+
+try:
+    from wordcloud import WordCloud
+    import matplotlib.pyplot as plt
+    WORDCLOUD_AVAILABLE = True
+except ImportError:
+    WORDCLOUD_AVAILABLE = False
+
 class DashboardApp:
     def __init__(self):
         """Initialize dashboard components"""

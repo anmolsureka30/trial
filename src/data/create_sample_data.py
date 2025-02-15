@@ -1,20 +1,28 @@
 import pandas as pd
-import os
+import numpy as np
+from datetime import datetime, timedelta
 
-def create_sample_data():
-    """Create sample data for testing"""
-    data = pd.DataFrame({
-        'Surveyor Part Code': [f'P{i:03d}' for i in range(100)],
-        'Surveyor Part Name': [
-            'Front Bumper', 'Rear Bumper', 'Hood', 'Windshield',
-            'Headlight Left', 'Headlight Right', 'Door Front Left',
-            'Door Front Right', 'Fender Left', 'Fender Right'
-        ] * 10
-    })
+def create_sample_data(num_claims: int = 1000) -> pd.DataFrame:
+    """Create sample claims data for testing"""
     
-    # Save to CSV
-    data.to_csv('Primary_Parts_Code.csv', index=False)
-    return data
+    # Generate random claim IDs
+    claim_ids = np.arange(1, num_claims + 1)
+    
+    # Generate random part codes
+    part_codes = [f"{x:04d}" for x in range(1, 21)]
+    
+    # Generate sample data
+    data = {
+        'claim_id': np.repeat(claim_ids, 3),  # Each claim has ~3 damaged parts
+        'damaged_part_code': np.random.choice(part_codes, size=num_claims * 3),
+        'damage_severity': np.random.choice(
+            ['minor', 'moderate', 'severe', 'critical'],
+            size=num_claims * 3,
+            p=[0.4, 0.3, 0.2, 0.1]
+        )
+    }
+    
+    return pd.DataFrame(data)
 
 if __name__ == "__main__":
     create_sample_data() 

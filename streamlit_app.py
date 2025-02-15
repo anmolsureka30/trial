@@ -11,11 +11,18 @@ try:
     # Import dashboard
     from dashboard.streamlit_app import main
 except ImportError as e:
-    st.error(f"Failed to import required modules: {str(e)}")
+    st.error(f"""Failed to import required modules: {str(e)}
+    Please ensure all dependencies are installed correctly.
+    If the error persists, contact support.""")
     st.stop()
 
-if __name__ == "__main__":
+def run_app():
     try:
         main()
     except Exception as e:
-        st.error(f"Application error: {str(e)}") 
+        st.error(f"""Application error: {str(e)}
+        Please try refreshing the page.
+        If the error persists, contact support.""")
+
+if __name__ == "__main__":
+    run_app() 

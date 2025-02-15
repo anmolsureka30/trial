@@ -7,4 +7,14 @@ font = "sans serif"
 
 [server]
 enableCORS = false
-enableXsrfProtection = false 
+enableXsrfProtection = false
+maxUploadSize = 200
+maxMessageSize = 200
+
+[runner]
+magicEnabled = true
+installTracer = false
+fixMatplotlib = true
+
+[browser]
+gatherUsageStats = false 
